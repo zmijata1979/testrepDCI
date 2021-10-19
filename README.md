@@ -1,7 +1,9 @@
 # Assignment 
 
 My name is Regina Schmidt and I am 33 years old
+
 My favorite color is purple
+
 I have a bunch of favorite languages: 
 - Mandarin, 
 - English, 
